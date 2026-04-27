@@ -1,9 +1,10 @@
 --- CREDITS ---
 
-Credit to these GameBanana mods (all nsfw lol) that I stole the .ini and .dds from:
+Credit to these GameBanana mods that I stole the .ini and .dds from:
 - https://gamebanana.com/mods/659405
 -
-And shoutout to this TEXTURE HASH TUTORIAL https://gamebanana.com/mods/659405
+Other than these mods, I extracted the Hash and Textures myself ON ASIA SERVER.
+Shoutout to this TEXTURE HASH TUTORIAL https://gamebanana.com/mods/659405
 
 --- INFO ---
 
