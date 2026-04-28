@@ -1,3 +1,0 @@
-Make sure to export NoPerfScreen with Mipmaps.
-Be careful of epilepsy.
-Disabled by default

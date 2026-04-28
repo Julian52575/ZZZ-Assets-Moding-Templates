@@ -1,0 +1,4 @@
+These following textures are used on the street but comes from other scenes/folder:
+- some video store poster on the ground
+- some bags held in front of the convenient store
+- some skateboards from the video store
