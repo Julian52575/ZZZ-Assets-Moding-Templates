@@ -1,0 +1,1 @@
+The posters are loaded from the staff room's poster texture
