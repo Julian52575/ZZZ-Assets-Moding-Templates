@@ -1,9 +1,6 @@
 --- CREDITS ---
 
-Credit to these GameBanana mods that I stole the .ini and .dds from:
-- https://gamebanana.com/mods/659405
--
-Other than these mods, I extracted the Hash and Textures myself ON ASIA SERVER.
+See the gamebanana page: https://gamebanana.com/mods/672812
 Shoutout to this TEXTURE HASH TUTORIAL https://gamebanana.com/mods/659405
 
 --- INFO ---
